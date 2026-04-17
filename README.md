@@ -13,7 +13,14 @@ https://youtu.be/rQ_J9WH6CGk?si=cI8J03MwD2gWhP24
 
 # How to run
 
-To a project, use the following commands:
+1. Clone the repository:
+
+```bash
+git clone https://github.com/SonoNessunk/RustCourse.git
+cd RustCourse
+```
+
+2. To run a project, use the following commands:
 
 ```bash
 cd XXX
